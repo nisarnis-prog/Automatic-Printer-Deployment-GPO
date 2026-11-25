@@ -1,22 +1,22 @@
 # Automatic Printer Deployment Using GPO
 
 <picture>
-  <source media="(max-width: 640px)" srcset="Assets/portfolio/hero-mobile.svg" />
-  <img src="Assets/portfolio/hero.svg" width="1200" alt="Automatic Printer Deployment Using GPO. Prepared by Nisar Muhammad." />
+  <source media="(max-width: 640px)" srcset="Assets/phase2/hero-mobile.svg" />
+  <img src="Assets/phase2/hero.svg" width="1200" alt="Automatic Printer Deployment Using GPO. Prepared by Nisar Muhammad." />
 </picture>
 
 **[Download the Illustrated Beginner's Step-by-Step Guide (PDF)](https://github.com/nisarnis-prog/Automatic-Printer-Deployment-GPO/releases/download/v1.1.0/Automatic-Printer-Deployment-Guide.pdf)** · [View the repository copy](Documentation/Automatic-Printer-Deployment-Guide.pdf) · [Start here](START-HERE.md)
 
 Deploy a shared network printer to domain users with Active Directory Group Policy Preferences. The guide follows the Automatic Printer Installation GPO Reel and walks through server setup, department targeting, a pilot migration, and rollback. Deployment is configured in Windows consoles and requires no PowerShell scripts.
 
-## What the guide covers
+## <img src="Assets/phase2/section.svg" width="32" alt="" /> What the guide covers
 
 - Share a network printer, confirm access, and select approved drivers.
 - Assign queues to department security groups with item-level targeting.
 - Enable an optional default printer, validate a pilot, and explicitly remove a retired connection.
 - Diagnose policy and print failures, restore the old queue, and reverse the migration when needed.
 
-## Prerequisites and environment
+## <img src="Assets/phase2/section.svg" width="32" alt="" /> Prerequisites and environment
 
 The example uses an Active Directory domain, domain-joined Windows 11 clients, a Windows Print Server, GPMC, network printer access, delegated administrative permissions, and trusted signed drivers. Console labels can vary by Windows version. The domain, server, groups and queues are fictional. The illustrations recreate selected UI fields.
 
