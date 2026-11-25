@@ -2,7 +2,7 @@
 
 ![Automatic Printer Deployment Using GPO. Prepared by Nisar Muhammad.](Assets/Repository-Banner.png)
 
-**[Download the illustrated beginner PDF](https://github.com/nisarnis-prog/Automatic-Printer-Deployment-GPO/releases/download/v1.0.0/Automatic-Printer-Deployment-Guide.pdf)** · [View the repository copy](Documentation/Automatic-Printer-Deployment-Guide.pdf) · [Start here](START-HERE.md)
+**[Download the Illustrated Beginner's Step-by-Step Guide (PDF)](https://github.com/nisarnis-prog/Automatic-Printer-Deployment-GPO/releases/download/v1.1.0/Automatic-Printer-Deployment-Guide.pdf)** · [View the repository copy](Documentation/Automatic-Printer-Deployment-Guide.pdf) · [Start here](START-HERE.md)
 
 Deploy a shared network printer to domain users with Active Directory Group Policy Preferences. The guide follows the Automatic Printer Installation GPO Reel and walks through server setup, department targeting, a pilot migration, and rollback. Deployment is configured in Windows consoles and requires no PowerShell scripts.
 

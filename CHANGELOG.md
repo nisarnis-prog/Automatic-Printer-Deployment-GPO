@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.1.0
+
+- Rebuilt the guide as a ten-page illustrated walkthrough with ten numbered Windows-style configuration examples.
+- Added click callouts and complete General, Common, and signed-in-user targeting examples.
+- Preserved prerequisite, pilot, migration, troubleshooting, and rollback guidance.
+
 ## v1.0.0
 
 - Published the seven-page beginner guide covering print server setup, department targeting, deployment, migration, troubleshooting and rollback.
