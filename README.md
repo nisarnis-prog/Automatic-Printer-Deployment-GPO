@@ -1,6 +1,9 @@
 # Automatic Printer Deployment Using GPO
 
-![Automatic Printer Deployment Using GPO. Prepared by Nisar Muhammad.](Assets/Repository-Banner.png)
+<picture>
+  <source media="(max-width: 640px)" srcset="Assets/portfolio/hero-mobile.svg" />
+  <img src="Assets/portfolio/hero.svg" width="1200" alt="Automatic Printer Deployment Using GPO. Prepared by Nisar Muhammad." />
+</picture>
 
 **[Download the Illustrated Beginner's Step-by-Step Guide (PDF)](https://github.com/nisarnis-prog/Automatic-Printer-Deployment-GPO/releases/download/v1.1.0/Automatic-Printer-Deployment-Guide.pdf)** · [View the repository copy](Documentation/Automatic-Printer-Deployment-Guide.pdf) · [Start here](START-HERE.md)
 
